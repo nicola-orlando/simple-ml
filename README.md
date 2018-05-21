@@ -25,7 +25,7 @@ Simple scripts for basic machine learning studies, project previously on Gitlab,
     
 **Setting the package up**
 
-    git clone ssh://git@gitlab.cern.ch:7999/orlando/HBSMutilsMVA.git
+    git clone ssh://git@github.com/nicola-orlando/simple-ml.git
     setupATLAS
     rcSetup Base,2.4.24  //just to set up a new root version
     
