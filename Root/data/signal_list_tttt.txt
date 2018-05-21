@@ -1,0 +1,7 @@
+sample tthtt_m_400   tttt_400.root  1
+sample tthtt_m_500   tttt_500.root  1
+sample tthtt_m_600   tttt_600.root  1
+sample tthtt_m_700   tttt_700.root  1
+sample tthtt_m_800   tttt_800.root  1
+sample tthtt_m_900   tttt_900.root  1
+sample tthtt_m_1000  tttt_1000.root 1

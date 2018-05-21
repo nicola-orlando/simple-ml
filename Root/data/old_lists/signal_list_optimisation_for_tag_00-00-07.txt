@@ -1,0 +1,55 @@
+sample bbhtt_m_400  eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/bbtt_400.root   1
+sample bbhtt_m_1000 eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/bbtt_1000.root  1
+sample tthtt_m_400  eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/tttt_400.root  1
+sample tthtt_m_1000 eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/tttt_1000.root 1
+sample hplus_m_400   eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/Hplus_400.root  1
+sample hplus_m_1000  eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/Hplus_1000.root 1
+sample tthbb_m_400   eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/ttbb_400.root  1
+sample tthbb_m_1000  eos/atlas/user/o/orlando/VLQAnalysisOutputs_hbsm_ntuples_2015-03-15_merged/ttbb_1000.root 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

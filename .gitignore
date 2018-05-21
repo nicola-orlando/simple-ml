@@ -1,0 +1,15 @@
+*~
+._*
+*/*~
+*/._*
+*/plots*/*
+*/weights/*
+*/*.root
+RootCoreBin
+rcSetup.csh
+rcSetup.sh
+.RootCoreBin
+Root/eos 
+Root/weights*
+Root/*log
+Root_*

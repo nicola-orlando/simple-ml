@@ -1,0 +1,7 @@
+sample bbhtt_m_400   bbtt_400.root   1
+sample bbhtt_m_500   bbtt_500.root   1
+sample bbhtt_m_600   bbtt_600.root   1
+sample bbhtt_m_700   bbtt_700.root   1
+sample bbhtt_m_800   bbtt_800.root   1 
+sample bbhtt_m_900   bbtt_900.root   1
+sample bbhtt_m_1000  bbtt_1000.root  1

@@ -1,0 +1,1 @@
+sample SM4tops       SM4tops.root   1 
