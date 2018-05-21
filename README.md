@@ -1,5 +1,5 @@
 # simple-ml
-Simple scripts for basic machine learning studies  
+Simple scripts for basic machine learning studies, project previously on Gitlab, migration and development in progress  
 
 **Introductory readings**
     
